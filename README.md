@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .LINK one-word domains still available to buy.
 
-This dataset contains 4,230 .LINK one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,511 .LINK one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.LINK one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=link-oneword-domains&utm_content=description.top) (4,228) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.LINK one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/link-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/link-oneword-domains/blob/main/link.csv"><b>⬇️ CSV (4.23K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/link-oneword-domains/blob/main/link.json"><b>⬇️ JSON (4.23K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/link-oneword-domains/blob/main/link.csv"><b>⬇️ CSV (4.51K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/link-oneword-domains/blob/main/link.json"><b>⬇️ JSON (4.51K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=link-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.23K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status    | Attract. | Demand | Length | Registrar | Created          | Expires          |
-| --------------- | --------- | -------- | ------ | ------ | --------- | ---------------- | ---------------- |
-| aaa.link        | premium   | 70       | 38%    | 3      |           |                  |                  |
-| aaron.link      | resell    | 88       | 32%    | 5      | NAMECHEAP | 05/08/2022 01:10 | 05/08/2026 01:10 |
-| abactinal.link  | available | 50       | 1%     | 9      |           |                  |                  |
-| abaft.link      | premium   | 43       | 2%     | 5      |           |                  |                  |
-| abandoned.link  | premium   | 58       | 7%     | 9      |           |                  |                  |
-| abashed.link    | available | 60       | 2%     | 7      |           |                  |                  |
-| abasic.link     | available | 54       | 2%     | 6      |           |                  |                  |
-| abatable.link   | available | 54       | 1%     | 8      |           |                  |                  |
-| abatic.link     | available | 54       | 2%     | 6      |           |                  |                  |
-| abaxial.link    | available | 54       | 2%     | 7      |           |                  |                  |
-| abbatial.link   | available | 50       | 1%     | 8      |           |                  |                  |
-| abdicable.link  | available | 50       | 1%     | 9      |           |                  |                  |
-| abdominal.link  | premium   | 82       | 5%     | 9      |           |                  |                  |
-| abdominous.link | available | 56       | 1%     | 10     |           |                  |                  |
-| abducens.link   | available | 54       | 1%     | 8      |           |                  |                  |
-| abducent.link   | available | 68       | 1%     | 8      |           |                  |                  |
-| abducting.link  | available | 50       | 1%     | 9      |           |                  |                  |
-| abenaki.link    | available | 82       | 3%     | 7      |           |                  |                  |
-| aberdonian.link | available | 68       | 1%     | 10     |           |                  |                  |
-| aberrant.link   | premium   | 74       | 7%     | 8      |           |                  |                  |
-| abeyant.link    | available | 56       | 2%     | 7      |           |                  |                  |
-| abhorrent.link  | available | 54       | 3%     | 9      |           |                  |                  |
-| abiding.link    | premium   | 106      | 5%     | 7      |           |                  |                  |
-| abient.link     | available | 54       | 1%     | 6      |           |                  |                  |
-| abit.link       | available | 66       | 16%    | 5      |           |                  |                  |
-| abkhas.link     | available | 68       | 1%     | 6      |           |                  |                  |
-| abkhasian.link  | available | 78       | 1%     | 9      |           |                  |                  |
-| abkhaz.link     | available | 82       | 2%     | 6      |           |                  |                  |
-| abkhazian.link  | available | 78       | 1%     | 9      |           |                  |                  |
-| ablated.link    | available | 52       | 2%     | 7      |           |                  |                  |
+| Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.link        | premium   | 70       | 35%    | 3      |           |         |         |
+| aaron.link      | premium   | 88       | 28%    | 5      |           |         |         |
+| abactinal.link  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.link      | premium   | 43       | 2%     | 5      |           |         |         |
+| abandoned.link  | premium   | 58       | 7%     | 9      |           |         |         |
+| abashed.link    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.link     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.link   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.link     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.link    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.link   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.link  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.link  | premium   | 82       | 5%     | 9      |           |         |         |
+| abdominous.link | available | 56       | 1%     | 10     |           |         |         |
+| abducens.link   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.link   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.link  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.link    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.link | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.link   | premium   | 74       | 7%     | 8      |           |         |         |
+| abeyant.link    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.link  | available | 54       | 3%     | 9      |           |         |         |
+| abide.link      | available | 94       | 15%    | 5      |           |         |         |
+| abiding.link    | premium   | 106      | 5%     | 7      |           |         |         |
+| abient.link     | available | 54       | 1%     | 6      |           |         |         |
+| abit.link       | available | 66       | 12%    | 5      |           |         |         |
+| abkhas.link     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.link  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.link     | available | 82       | 2%     | 6      |           |         |         |
+| abkhazian.link  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/link-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/link-oneword-domains/blob/main/link.csv"><b>⬇️ CSV (4.23K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/link-oneword-domains/blob/main/link.json"><b>⬇️ JSON (4.23K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/link-oneword-domains/blob/main/link.csv"><b>⬇️ CSV (4.51K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/link-oneword-domains/blob/main/link.json"><b>⬇️ JSON (4.51K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=link-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.23K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.LINK one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
