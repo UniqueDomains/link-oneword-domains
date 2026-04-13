@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| completing.link | available | $10.99    | $13.99        | 68             | 4      | 10     | name.com                           |
-| element.link    | resell    | $8,967.70 | $10.99        | 96             | 30     | 7      | Spaceship, Inc.                    |
+| insulting.link  | available | $10.99    | $13.99        | 70             | 4      | 9      | name.com                           |
+| element.link    | resell    | $8,967.70 | $10.99        | 96             | 31     | 7      | Spaceship, Inc.                    |
 | converse.link   | premium   | $1,462.50 | $1,950        | 64             | 73     | 8      | namecheap                          |
-| abenaki.link    | available | $10.98    | —             | 82             | 3      | 7      | namecheap                          |
+| completing.link | available | $10.99    | $13.99        | 68             | 4      | 10     | name.com                           |
 | main.link       | resell    | —         | —             | 94             | 99     | 4      | Global Domains International, Inc. |
 | nationwide.link | premium   | $229.13   | $305.50       | 76             | 66     | 10     | namecheap                          |
-| recognised.link | available | $10.99    | $13.99        | 78             | 3      | 10     | name.com                           |
+| limiting.link   | available | $10.99    | $13.99        | 65             | 4      | 8      | name.com                           |
 | near.link       | resell    | —         | —             | 66             | 99     | 4      | NAMECHEAP                          |
 | seventeen.link  | premium   | $131.63   | $175.50       | 84             | 62     | 9      | namecheap                          |
-| frustrate.link  | available | $10.99    | $13.99        | 74             | 3      | 9      | name.com                           |
+| abenaki.link    | available | $10.98    | —             | 82             | 3      | 7      | namecheap                          |
 | loop.link       | resell    | —         | —             | 72             | 77     | 4      | Amazon Registrar, Inc.             |
 | cloud.link      | premium   | $3,412.50 | $4,550        | 70             | 59     | 5      | namecheap                          |
-| adaptative.link | available | $10.99    | $13.99        | 72             | 3      | 10     | name.com                           |
+| recognised.link | available | $10.99    | $13.99        | 78             | 3      | 10     | name.com                           |
 | mini.link       | resell    | —         | —             | 70             | 70     | 4      | Dynadot, LLC                       |
 | alpha.link      | premium   | $3,412.50 | $4,550        | 90             | 53     | 5      | namecheap                          |
-| practiced.link  | available | $10.99    | $13.99        | 70             | 3      | 9      | name.com                           |
+| frustrate.link  | available | $10.99    | $13.99        | 74             | 3      | 9      | name.com                           |
 | line.link       | resell    | —         | —             | 74             | 65     | 4      | Porkbun LLC                        |
-| design.link     | premium   | $3,412.50 | $4,550        | 108            | 50     | 6      | namecheap                          |
-| insulting.link  | available | $10.99    | $13.99        | 70             | 3      | 9      | name.com                           |
+| design.link     | premium   | $3,412.50 | $4,550        | 108            | 49     | 6      | namecheap                          |
+| adaptative.link | available | $10.99    | $13.99        | 72             | 3      | 10     | name.com                           |
 | news.link       | resell    | —         | —             | 100            | 64     | 4      | Global Domains International, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
