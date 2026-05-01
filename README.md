@@ -1,10 +1,10 @@
-# Available .LINK One-Word Domains (10,830)
+# Available .LINK One-Word Domains (11,319)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C830%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C319%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .link one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,830 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,319 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,830 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,319 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/link`  
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | cutthrough.link    | available | $10.99     | —             | 74             | 6      | 11     | name.com                     |
 | cars.link          | resell    | —          | —             | 66             | 47     | 4      | Alibaba Cloud Computing Ltd. |
 | hotels.link        | premium   | $17,767.50 | —             | 64             | 82     | 6      | 1API GmbH                    |
-| ponders.link       | available | $10.99     | —             | 54             | 5      | 7      | name.com                     |
-| virtual.link       | resell    | —          | —             | 80             | 42     | 7      | NameSilo, LLC                |
-| donuts.link        | premium   | $1,575     | $2,100        | 54             | 62     | 6      | namecheap                    |
 | requesting.link    | available | $10.99     | —             | 49             | 5      | 10     | name.com                     |
-| lets.link          | resell    | —          | —             | 77             | 39     | 4      | Porkbun LLC                  |
-| RedSox.link        | premium   | $141.75    | $189          | 72             | 60     | 7      | namecheap                    |
-| getover.link       | available | $10.99     | —             | 79             | 4      | 8      | name.com                     |
-| superhero.link     | resell    | —          | —             | 84             | 23     | 9      | 1API GmbH                    |
+| virtual.link       | resell    | —          | —             | 80             | 42     | 7      | NameSilo, LLC                |
 | keepthechange.link | premium   | $68.25     | $91           | 46             | 59     | 15     | namecheap                    |
 | makeknown.link     | available | $10.99     | —             | 78             | 4      | 10     | name.com                     |
-| SouthCarolina.link | resell    | —          | —             | 60             | 19     | 14     | 101domain GRS Ltd.           |
+| superhero.link     | resell    | —          | —             | 84             | 23     | 9      | 1API GmbH                    |
 | justin.link        | premium   | $1,575     | $2,100        | 58             | 38     | 7      | namecheap                    |
 | getwith.link       | available | $10.99     | —             | 74             | 4      | 8      | name.com                     |
-| workfromhome.link  | resell    | —          | —             | 51             | 16     | 14     | 1API GmbH                    |
+| SouthCarolina.link | resell    | —          | —             | 60             | 19     | 14     | 101domain GRS Ltd.           |
 | stories.link       | premium   | $1,575     | $2,100        | 58             | 36     | 7      | namecheap                    |
-| turndown.link      | available | $10.99     | —             | 74             | 4      | 9      | name.com                     |
+| abides.link        | available | $10.99     | —             | 70             | 4      | 6      | name.com                     |
+| workfromhome.link  | resell    | —          | —             | 51             | 16     | 14     | 1API GmbH                    |
+| etc.link           | premium   | $3,675     | $4,900        | 58             | 34     | 3      | namecheap                    |
+| Qtips.link         | available | $11.98     | —             | 60             | 4      | 6      | namecheap                    |
+| menus.link         | resell    | —          | —             | 54             | 14     | 5      | Dynadot, LLC                 |
+| teams.link         | premium   | $1,575     | $2,100        | 62             | 32     | 5      | namecheap                    |
+| glanced.link       | available | $10.99     | —             | 52             | 4      | 7      | name.com                     |
 | texting.link       | resell    | —          | —             | 72             | 13     | 7      | Dynadot, LLC                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,830 live domains                              |
+| 1,000-row public sample | 11,319 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
