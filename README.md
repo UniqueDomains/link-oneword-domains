@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .link one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,319 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,319 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,319 domains · **Median ask:** $180.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/link`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                    |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
-| cutthrough.link    | available | $10.99     | —             | 74             | 6      | 11     | name.com                     |
-| cars.link          | resell    | —          | —             | 66             | 47     | 4      | Alibaba Cloud Computing Ltd. |
-| hotels.link        | premium   | $17,767.50 | —             | 64             | 82     | 6      | 1API GmbH                    |
-| requesting.link    | available | $10.99     | —             | 49             | 5      | 10     | name.com                     |
-| virtual.link       | resell    | —          | —             | 80             | 42     | 7      | NameSilo, LLC                |
-| keepthechange.link | premium   | $68.25     | $91           | 46             | 59     | 15     | namecheap                    |
-| makeknown.link     | available | $10.99     | —             | 78             | 4      | 10     | name.com                     |
-| superhero.link     | resell    | —          | —             | 84             | 23     | 9      | 1API GmbH                    |
-| justin.link        | premium   | $1,575     | $2,100        | 58             | 38     | 7      | namecheap                    |
-| getwith.link       | available | $10.99     | —             | 74             | 4      | 8      | name.com                     |
-| SouthCarolina.link | resell    | —          | —             | 60             | 19     | 14     | 101domain GRS Ltd.           |
-| stories.link       | premium   | $1,575     | $2,100        | 58             | 36     | 7      | namecheap                    |
-| abides.link        | available | $10.99     | —             | 70             | 4      | 6      | name.com                     |
-| workfromhome.link  | resell    | —          | —             | 51             | 16     | 14     | 1API GmbH                    |
-| etc.link           | premium   | $3,675     | $4,900        | 58             | 34     | 3      | namecheap                    |
-| Qtips.link         | available | $11.98     | —             | 60             | 4      | 6      | namecheap                    |
-| menus.link         | resell    | —          | —             | 54             | 14     | 5      | Dynadot, LLC                 |
-| teams.link         | premium   | $1,575     | $2,100        | 62             | 32     | 5      | namecheap                    |
-| glanced.link       | available | $10.99     | —             | 52             | 4      | 7      | name.com                     |
-| texting.link       | resell    | —          | —             | 72             | 13     | 7      | Dynadot, LLC                 |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                    |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
+| dogsick.link      | available | $10.99     | —             | 90             | 1      | 7      | name.com                     |
+| rumcake.link      | available | $10.99     | —             | 81             | 3      | 8      | name.com                     |
+| fitinto.link      | available | $10.99     | —             | 84             | 2      | 8      | name.com                     |
+| havemercy.link    | available | $10.99     | —             | 80             | 2      | 10     | name.com                     |
+| operacake.link    | available | $10.99     | —             | 80             | 1      | 10     | name.com                     |
+| keepfaith.link    | available | $10.99     | —             | 82             | 3      | 10     | name.com                     |
+| coffeebush.link   | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
+| coffeewoman.link  | available | $10.99     | —             | 80             | 2      | 11     | name.com                     |
+| herbbutter.link   | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
+| steerclear.link   | available | $10.99     | —             | 80             | 2      | 11     | name.com                     |
+| teeheehee.link    | available | $10.99     | —             | 88             | 1      | 11     | name.com                     |
+| coffeecupful.link | available | $8.59      | $8.59         | 80             | 1      | 12     | namesilo                     |
+| coffeeglass.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
+| coffeesenna.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
+| coffeesyrup.link  | available | $10.99     | —             | 80             | 2      | 12     | name.com                     |
+| midafternoon.link | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
+| cutthrough.link   | available | $10.99     | —             | 74             | 6      | 11     | name.com                     |
+| cars.link         | resell    | —          | —             | 66             | 47     | 4      | Alibaba Cloud Computing Ltd. |
+| hotels.link       | premium   | $17,767.50 | —             | 64             | 82     | 6      | 1API GmbH                    |
+| requesting.link   | available | $10.99     | —             | 49             | 5      | 10     | name.com                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,319 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,319 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of .link domains, which gives the names a built-in call-to-action feel. Many lean toward short two-part phrases or playful brandable constructions, as seen in names like stirup.link, leaveon.link, fitinto.link, and getjiggy.link. For founders, the key question is whether the full name reads naturally, sounds credible aloud, and still feels ownable with the .link ending. For investors, the main test is whether the phrase is clear enough to have resale relevance beyond a single niche use case. With a median ask of 180.50, pricing is accessible enough to compare multiple options closely rather than forcing a single speculative pick.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor .link names that read naturally as a full phrase
+- Check whether the keyword and .link ending reinforce each other
+- Prioritize clear spelling and easy recall over novelty
+- Use the 180.50 median ask as a price reality check
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
