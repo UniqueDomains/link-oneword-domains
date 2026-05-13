@@ -362,7 +362,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 235e688d-9787-456c-9a48-6da40c33b8b7,tourists.link,premium,141.75,189,58,7,8,namecheap,,
 236c60cd-545c-4296-947d-4e532fcc83d6,packages.link,premium,246.75,329,54,13,8,namecheap,,
 23870821-3fb8-452d-9f10-a84c85761a9b,smashit.link,premium,68.25,91,72,8,8,namecheap,,
-239cd802-ffd7-49b7-a8e4-0295e18e0586,characters.link,premium,141.75,189,60,13,10,namecheap,,
+239cd802-ffd7-49b7-a8e4-0295e18e0586,characters.link,premium,141.75,189,60,12,10,namecheap,,
 23a0f0d3-bf42-4335-98ea-a5e9e5aa089a,noodlebar.link,premium,68.25,91,62,2,10,namecheap,,
 23b8b40c-f636-4633-8458-b68b2e42fcfa,recruited.link,premium,36.75,49,58,5,9,namecheap,,
 23dc47f9-8dba-4fdb-a278-520d4afc1391,letthemhaveit.link,available,10.99,,47,1,16,name.com,,
@@ -980,7 +980,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59f3ca87-8f9e-4e5c-b816-2efb6b7bfb18,deadoralive.link,premium,36.75,49,54,5,13,namecheap,,
 5a00cfc1-4e21-452f-9d01-39448f02913a,majorityleader.link,available,10.99,,54,1,15,name.com,,
 5a087a0d-99bf-488e-9eb9-2c68abeff198,rarest.link,premium,68.25,91,56,5,6,namecheap,,
-5a10c5c5-36e6-45cf-bf5d-77c3d4d70abf,virtual.link,resell,,,80,42,7,"NameSilo, LLC",17/08/2017 02:16,17/08/2026 02:16
+5a10c5c5-36e6-45cf-bf5d-77c3d4d70abf,virtual.link,premium,,,80,43,7,"NameSilo, LLC",17/08/2017 02:16,17/08/2026 02:16
 5a2a1c9d-056c-4ec1-8d48-ee8645c6bf38,getoffeasy.link,available,10.99,,58,1,12,name.com,,
 5a5a7f77-6530-4c10-9b73-bb32eea0718d,droppingin.link,available,10.99,,70,2,11,name.com,,
 5a65e3e1-0a22-45a4-84f4-55c48a9be0d6,Qtips.link,available,11.98,,60,4,6,namecheap,,
