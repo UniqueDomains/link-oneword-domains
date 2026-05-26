@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .link one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,320 domains · **Median ask:** $180.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/link`  
 **Best for:** founders, investors, studios
 
@@ -65,15 +65,15 @@ print(df.head())
 | domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                    |
 | ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
 | dogsick.link      | available | $10.99     | —             | 90             | 1      | 7      | name.com                     |
-| rumcake.link      | available | $10.99     | —             | 81             | 3      | 8      | name.com                     |
-| fitinto.link      | available | $10.99     | —             | 84             | 2      | 8      | name.com                     |
+| rumcake.link      | available | $10.99     | —             | 81             | 2      | 8      | name.com                     |
+| fitinto.link      | available | $10.99     | —             | 84             | 1      | 8      | name.com                     |
 | havemercy.link    | available | $10.99     | —             | 80             | 2      | 10     | name.com                     |
 | operacake.link    | available | $10.99     | —             | 80             | 1      | 10     | name.com                     |
-| keepfaith.link    | available | $10.99     | —             | 82             | 3      | 10     | name.com                     |
+| keepfaith.link    | available | $10.99     | —             | 82             | 2      | 10     | name.com                     |
 | coffeebush.link   | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
 | coffeewoman.link  | available | $10.99     | —             | 80             | 2      | 11     | name.com                     |
 | herbbutter.link   | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
-| steerclear.link   | available | $10.99     | —             | 80             | 2      | 11     | name.com                     |
+| steerclear.link   | available | $10.99     | —             | 80             | 3      | 11     | name.com                     |
 | teeheehee.link    | available | $10.99     | —             | 88             | 1      | 11     | name.com                     |
 | coffeecupful.link | available | $8.59      | $8.59         | 80             | 1      | 12     | namesilo                     |
 | coffeeglass.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
