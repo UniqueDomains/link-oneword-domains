@@ -71,14 +71,14 @@ print(df.head())
 | operacake.link    | available | $10.99     | —             | 80             | 1      | 10     | name.com                     |
 | keepfaith.link    | available | $10.99     | —             | 82             | 2      | 10     | name.com                     |
 | coffeebush.link   | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
-| coffeewoman.link  | available | $10.99     | —             | 80             | 2      | 11     | name.com                     |
+| coffeewoman.link  | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
 | herbbutter.link   | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
 | steerclear.link   | available | $10.99     | —             | 80             | 3      | 11     | name.com                     |
 | teeheehee.link    | available | $10.99     | —             | 88             | 1      | 11     | name.com                     |
 | coffeecupful.link | available | $8.59      | $8.59         | 80             | 1      | 12     | namesilo                     |
 | coffeeglass.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
 | coffeesenna.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
-| coffeesyrup.link  | available | $10.99     | —             | 80             | 2      | 12     | name.com                     |
+| coffeesyrup.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
 | midafternoon.link | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
 | cutthrough.link   | available | $10.99     | —             | 74             | 6      | 11     | name.com                     |
 | cars.link         | resell    | —          | —             | 66             | 47     | 4      | Alibaba Cloud Computing Ltd. |
