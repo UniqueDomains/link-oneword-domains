@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .link one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,320 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,320 domains · **Median ask:** $180.50 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,320 domains · **Median ask:** $339.40 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/link`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/link`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LINK one-word domain 
 
 ### Files
 
-- `link.csv` — public CSV extract (1,000 rows)
-- `link.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `link.csv`, public CSV extract (1,000 rows)
+- `link.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                    |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
-| dogsick.link      | available | $10.99     | —             | 90             | 1      | 7      | name.com                     |
-| rumcake.link      | available | $10.99     | —             | 81             | 2      | 8      | name.com                     |
-| fitinto.link      | available | $10.99     | —             | 84             | 1      | 8      | name.com                     |
-| havemercy.link    | available | $10.99     | —             | 80             | 2      | 10     | name.com                     |
-| operacake.link    | available | $10.99     | —             | 80             | 1      | 10     | name.com                     |
-| keepfaith.link    | available | $10.99     | —             | 82             | 2      | 10     | name.com                     |
-| coffeebush.link   | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
-| coffeewoman.link  | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
-| herbbutter.link   | available | $10.99     | —             | 80             | 1      | 11     | name.com                     |
-| steerclear.link   | available | $10.99     | —             | 80             | 3      | 11     | name.com                     |
-| teeheehee.link    | available | $10.99     | —             | 88             | 1      | 11     | name.com                     |
-| coffeecupful.link | available | $8.59      | $8.59         | 80             | 1      | 12     | namesilo                     |
-| coffeeglass.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
-| coffeesenna.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
-| coffeesyrup.link  | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
-| midafternoon.link | available | $10.99     | —             | 80             | 1      | 12     | name.com                     |
-| cutthrough.link   | available | $10.99     | —             | 74             | 6      | 11     | name.com                     |
-| cars.link         | resell    | —          | —             | 66             | 47     | 4      | Alibaba Cloud Computing Ltd. |
-| hotels.link       | premium   | $17,767.50 | —             | 64             | 82     | 6      | 1API GmbH                    |
-| requesting.link   | available | $10.99     | —             | 49             | 5      | 10     | name.com                     |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
+| abkhaz.link  | available | $10.98    | —             | high           | low    | 6      | namecheap                                          |
+| bit.link     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                    |
+| age.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
+| anall.link   | available | $8.59     | $8.59         | medium         | low    | 6      | namesilo                                           |
+| bro.link     | resell    | —         | —             | medium         | low    | 3      | NAMECHEAP                                          |
+| ale.link     | premium   | $787.50   | $1,050        | medium         | low    | 3      | namecheap                                          |
+| butif.link   | available | $8.59     | $8.59         | medium         | low    | 6      | namesilo                                           |
+| keep.link    | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
+| Ann.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
+| gobad.link   | available | $8.59     | $8.59         | high           | low    | 6      | namesilo                                           |
+| main.link    | resell    | —         | —             | high           | high   | 4      | Global Domains International, Inc.                 |
+| con.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
+| theyre.link  | available | $8.59     | $8.59         | medium         | low    | 6      | namesilo                                           |
+| mini.link    | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC                                       |
+| coy.link     | premium   | $229.13   | $305.50       | medium         | low    | 3      | namecheap                                          |
+| abashed.link | available | $10.99    | $13.99        | medium         | low    | 7      | name.com                                           |
+| xxvi.link    | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
+| des.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
+| condemn.link | available | $8.59     | $8.59         | medium         | low    | 7      | namesilo                                           |
+| azure.link   | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .link domains, which gives the names a built-in call-to-action feel. Many lean toward short two-part phrases or playful brandable constructions, as seen in names like stirup.link, leaveon.link, fitinto.link, and getjiggy.link. For founders, the key question is whether the full name reads naturally, sounds credible aloud, and still feels ownable with the .link ending. For investors, the main test is whether the phrase is clear enough to have resale relevance beyond a single niche use case. With a median ask of 180.50, pricing is accessible enough to compare multiple options closely rather than forcing a single speculative pick.
+This list gathers one-word .link domains, a TLD naturally tied to connection, sharing, and reference. Names range from tight single words such as trade.link and criteria.link to longer compound strings like appreciation.link and lordoftherings.link. Across the set, the median asking price sits near $339, giving a practical baseline for comparing individual listings. Because .link carries no built-in industry bias, each name's value depends mostly on brevity, spelling ease, and how directly it reads as a real word or phrase rather than a random string.
 
-- Favor .link names that read naturally as a full phrase
-- Check whether the keyword and .link ending reinforce each other
-- Prioritize clear spelling and easy recall over novelty
-- Use the 180.50 median ask as a price reality check
+- 11,320 one-word .link domains in this selection
+- Median asking price near $339 across the list
+- Names span short single words to longer compounds
+- Compare each by length, spelling ease, and renewal cost
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
