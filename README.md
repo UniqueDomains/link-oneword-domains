@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .link one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,549 domains · **Median ask:** $226.00 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/link`
 **Best for:** founders, investors, studios
 
@@ -66,6 +66,7 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
 | correct.link | premium   | $341.25   | $455          | high           | low    | 7      | namecheap                                          |
 | nothing.link | premium   | $787.50   | $1,050        | high           | low    | 7      | namecheap                                          |
+| pardon.link  | premium   | $141.75   | $189          | high           | low    | 6      | namecheap                                          |
 | cxlv.link    | available | $4.48     | $11.98        | low            | low    | 4      | namecheap                                          |
 | bit.link     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                    |
 | age.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
@@ -83,7 +84,6 @@ print(df.head())
 | coy.link     | premium   | $229.13   | $305.50       | medium         | low    | 3      | namecheap                                          |
 | acinic.link  | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
 | xxvi.link    | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
-| des.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
