@@ -1,10 +1,10 @@
-# Available .LINK One-Word Domains (18,268)
+# Available .LINK One-Word Domains (18,684)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C268%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C684%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .link one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,268 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,684 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,268 domains · **Median ask:** $213.54 · **High-demand under $2,500:** 27
+**Public extract:** 1,000 rows · **Live catalog:** 18,684 domains · **Median ask:** $211.30 · **High-demand under $2,500:** 27
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-04
 **Canonical page:** `https://unique.domains/domains/tld/link`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| cxlv.link   | available | $4.48     | $11.98        | low            | low    | 4      | namecheap                                          |
-| bit.link    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                    |
-| age.link    | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
-| adust.link  | available | $4.48     | $11.98        | low            | low    | 5      | namecheap                                          |
-| bro.link    | resell    | —         | —             | medium         | low    | 3      | NAMECHEAP                                          |
-| ale.link    | premium   | $787.50   | $1,050        | medium         | low    | 3      | namecheap                                          |
-| atilt.link  | available | $4.48     | $11.98        | low            | low    | 5      | namecheap                                          |
-| keep.link   | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
-| Ann.link    | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
-| abkhaz.link | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
-| main.link   | resell    | —         | —             | high           | high   | 4      | Global Domains International, Inc.                 |
-| con.link    | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
-| acetic.link | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
-| mini.link   | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC                                       |
-| coy.link    | premium   | $229.13   | $305.50       | medium         | low    | 3      | namecheap                                          |
-| acinic.link | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
-| xxvi.link   | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
-| des.link    | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
-| agleam.link | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
-| azure.link  | resell    | —         | —             | medium         | high   | 5      | Porkbun LLC                                        |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
+| correct.link | premium   | $341.25   | $455          | high           | low    | 7      | namecheap                                          |
+| nothing.link | premium   | $787.50   | $1,050        | high           | low    | 7      | namecheap                                          |
+| cxlv.link    | available | $4.48     | $11.98        | low            | low    | 4      | namecheap                                          |
+| bit.link     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                    |
+| age.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
+| adust.link   | available | $4.48     | $11.98        | low            | low    | 5      | namecheap                                          |
+| bro.link     | resell    | —         | —             | medium         | low    | 3      | NAMECHEAP                                          |
+| ale.link     | premium   | $787.50   | $1,050        | medium         | low    | 3      | namecheap                                          |
+| atilt.link   | available | $4.48     | $11.98        | low            | low    | 5      | namecheap                                          |
+| keep.link    | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
+| Ann.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
+| abkhaz.link  | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
+| main.link    | resell    | —         | —             | high           | high   | 4      | Global Domains International, Inc.                 |
+| con.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
+| acetic.link  | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
+| mini.link    | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC                                       |
+| coy.link     | premium   | $229.13   | $305.50       | medium         | low    | 3      | namecheap                                          |
+| acinic.link  | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
+| xxvi.link    | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
+| des.link     | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,268 live domains                        |
+| 1,000-row public sample | 18,684 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 27 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-09-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
