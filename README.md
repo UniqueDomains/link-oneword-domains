@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .link one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,021 domains · **Median ask:** $173.89 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/link`
 **Best for:** founders, investors, studios
 
@@ -74,11 +74,11 @@ print(df.head())
 | bill.link   | resell    | —         | —             | low            | low    | 4      | Dynadot, LLC                                       |
 | ann.link    | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
 | abkhaz.link | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
-| main.link   | resell    | —         | —             | high           | high   | 4      | Global Domains International, Inc.                 |
+| main.link   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                    |
 | con.link    | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
 | acetic.link | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
 | mini.link   | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC                                       |
-| coy.link    | premium   | $229.13   | $305.50       | medium         | low    | 3      | namecheap                                          |
+| coy.link    | premium   | $305.50   | $305.50       | low            | low    | 3      | namecheap                                          |
 | acinic.link | available | $4.48     | $11.98        | low            | low    | 6      | namecheap                                          |
 | xxvi.link   | resell    | —         | —             | low            | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
 | des.link    | premium   | $787.50   | $1,050        | high           | low    | 3      | namecheap                                          |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
