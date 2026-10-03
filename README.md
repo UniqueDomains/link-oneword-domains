@@ -1,10 +1,10 @@
-# Available .LINK One-Word Domains (29,530)
+# Available .LINK One-Word Domains (31,527)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C530%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C527%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .link one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,530 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,527 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,530 domains · **Median ask:** $277.11 · **High-demand under $2,500:** 87
+**Public extract:** 1,000 rows · **Live catalog:** 31,527 domains · **Median ask:** $269.91 · **High-demand under $2,500:** 93
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/link`
 **Best for:** founders, investors, studios
 
@@ -69,20 +69,20 @@ print(df.head())
 | acf.link      | premium   | $362.45   | $362.45       | high           | low    | 3      | spaceship           |
 | curst.link    | available | $4.48     | $11.98        | medium         | low    | 5      | namecheap           |
 | tom.link      | resell    | —         | —             | high           | medium | 3      | —                   |
-| als.link      | premium   | $960      | $960          | high           | low    | 3      | namesilo            |
+| aic.link      | premium   | $1,552.70 | $1,552.70     | high           | low    | 3      | spaceship           |
 | drear.link    | available | $4.48     | $11.98        | medium         | low    | 5      | namecheap           |
 | tokyo.link    | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC        |
-| cba.link      | premium   | $960      | $960          | high           | low    | 3      | namesilo            |
+| als.link      | premium   | $960      | $960          | high           | low    | 3      | namesilo            |
 | elihu.link    | available | $10.50    | —             | medium         | low    | 5      | unstoppable         |
 | capsule.link  | resell    | —         | —             | high           | low    | 7      | Porkbun LLC         |
-| cub.link      | premium   | $455      | $455          | high           | low    | 3      | namecheap           |
-| hoary.link    | available | $4.48     | $11.98        | medium         | low    | 5      | namecheap           |
-| sneaker.link  | resell    | —         | —             | high           | low    | 7      | Tucows Domains Inc. |
-| cwt.link      | premium   | $257.06   | $257.06       | high           | high   | 3      | porkbun             |
+| bpd.link      | premium   | $243.43   | $243.43       | high           | low    | 3      | spaceship           |
 | krubi.link    | available | $8.59     | $8.59         | medium         | low    | 5      | namesilo            |
-| threads.link  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.     |
-| dum.link      | premium   | $243.43   | $243.43       | high           | low    | 3      | spaceship           |
+| sneaker.link  | resell    | —         | —             | high           | low    | 7      | Tucows Domains Inc. |
+| cba.link      | premium   | $960      | $960          | high           | low    | 3      | namesilo            |
 | lxxxv.link    | available | $4.48     | $11.98        | medium         | low    | 5      | namecheap           |
+| threads.link  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.     |
+| cwt.link      | premium   | $257.06   | $257.06       | high           | high   | 3      | porkbun             |
+| agleam.link   | available | $4.48     | $11.98        | medium         | low    | 6      | namecheap           |
 | graphene.link | resell    | —         | —             | high           | low    | 8      | —                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,530 live domains                        |
+| 1,000-row public sample | 31,527 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 87 high-demand names under $2,500          |
+| Basic exported fields   | 93 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LINK One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
